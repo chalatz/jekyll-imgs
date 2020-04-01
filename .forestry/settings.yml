@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: all
 upload_dir: uploads
-public_path: https://res.cloudinary.com/chralatz/image/upload/q_auto/uploads
+public_path: https://res.cloudinary.com/chralatz/image/upload/q_auto
 front_matter_path: https://res.cloudinary.com/chralatz/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
