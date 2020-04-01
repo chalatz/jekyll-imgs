@@ -13,10 +13,8 @@ layout: default
 
   <div class="images">
     {%- for img in page.images -%}
-      <img src="https://res.cloudinary.com/chralatz/image/upload/q_auto/uploads/{{- img -}}" alt="" class="image">
+      <img src="{{- img | prepend: 'https://res.cloudinary.com/chralatz/image/upload/q_auto/uploads/' | relative_url -}}" alt="" class="image">
     {%- endfor -%}
-  </div>
-    
-
+  </div>    
 
 </div>
