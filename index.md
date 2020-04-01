@@ -9,4 +9,4 @@ images:
 ---
 Content
 
-![](https://res.cloudinary.com/chralatz/image/upload/q_auto/uploads/v1585731236/uploads/gratisography-funky-facade.jpg)
+![](https://res.cloudinary.com/chralatz/image/upload/q_auto/v1585731218/uploads/gratisography-brick-vine.jpg)
